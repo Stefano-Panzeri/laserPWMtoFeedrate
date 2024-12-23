@@ -8,4 +8,5 @@ There are two options:
 - outline: this option will just replace the M3/M5 commands with M106/M107 commands, adding an optional pause when turning on/off the laser on unsynchronized systems.
 
 You can access the tool from here: https://stefano-panzeri.github.io/laserPWMtoFeedrate/
+The files are processed directly in the browser using Javascript, they are not sent to external servers for conversion.
 
